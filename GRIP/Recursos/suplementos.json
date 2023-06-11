@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Creatina",
+    "id": 1001,
+    "dosis": "100",
+    "horaNotificacion": "19",
+    "description": "La creatina, ácido α-metil guanido-acético, es un ácido orgánico nitrogenado que se encuentra en los músculos y células nerviosas de algunos organismos vivos. Se puede obtener tanto de manera natural como de manera artificial como suplemento",
+    "imageName": "creatina"
+  },
+  {
+    "name": "Trembolona",
+    "id": 1002,
+    "dosis": "500",
+    "horaNotificacion": "15",
+    "description": "La trembolona, también conocido como trienolona o trienbolona, ​​ es un esteroide usado en el ganado para aumentar el crecimiento muscular y el apetito.",
+    "imageName": "trembolona"
+  }
+]
