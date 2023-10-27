@@ -14,11 +14,11 @@
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
-git clone https://github.com/alvarogarciapiz/GRIPapp.git
+`git clone https://github.com/alvarogarciapiz/GRIPapp.git`
 
-2. Abre el proyecto en Xcode.
-3. Selecciona tu dispositivo de destino o un simulador.
-4. Ejecuta la aplicación.
+3. Abre el proyecto en Xcode.
+4. Selecciona tu dispositivo de destino o un simulador.
+5. Ejecuta la aplicación.
 
 ## Contribución
 Agradecemos las contribuciones a **Grip Clothing**. Si deseas contribuir a este proyecto, sigue estos pasos:
